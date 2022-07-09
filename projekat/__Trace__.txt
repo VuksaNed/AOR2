@@ -1,0 +1,2 @@
+https://www.cis.upenn.edu/~milom/cis501-Fall12/traces/trace-format.html		sjeng-100M.trace.gz
+http://hpca23.cse.tamu.edu/champsim-traces/speccpu/		http://hpca23.cse.tamu.edu/champsim-traces/speccpu/400.perlbench-41B.champsimtrace.xz
